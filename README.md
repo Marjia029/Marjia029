@@ -2,23 +2,24 @@
 A passionate software engineer with a strong foundation in full-stack web development and a deep interest in backend systems, cloud services, and automation. I love working on scalable systems and am constantly driven to learn and explore new technologies.
 
 - 🎓 **B.Sc. in Electrical and Computer Engineering** from RUET (2019–2024)
+- Working as a Junior Software Engineer at [**NidusLab**](https://niduslab.com/)
 - 💻 Worked at **W3 Engineers Ltd** as a Junior Software Engineer
-- 🤖 Enthusiastic about AI integrations, distributed systems, and automation
+- 🤖 Enthusiastic about AI Engineering, distributed systems, and automation
+
+###
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marjia029&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marjia029&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div> -->
+
+###
+
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marjia029&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marjia029&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="12" />
@@ -66,7 +67,7 @@ A passionate software engineer with a strong foundation in full-stack web develo
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:marjiaafroj2@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
